@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuelThomas46
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Languages
+- 🌱 I’m currently learning ...  Programming Languages
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... www.samuelthomas46@gmail.com
 
